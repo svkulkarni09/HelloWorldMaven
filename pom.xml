@@ -4,7 +4,7 @@
 
   <groupId>com.test</groupId>
   <artifactId>HelloWorldMaven</artifactId>
-  <version>1.5.0-RELEASE</version>
+  <version>1.6.0-RELEASE</version>
   <packaging>jar</packaging>
 
   <name>HelloWorldMaven</name>
@@ -20,12 +20,12 @@
 <repository>
     <id>releases</id>
     <!-- CHANGE HERE by your team nexus server -->    
-    <url>http://35.175.147.51:8081/repository/maven-releases/</url>  </repository>
+    <url>http://44.211.155.241:8081/repository/maven-releases/</url>  </repository>
   
   <snapshotRepository>
     <id>snapshots</id>
     <!-- CHANGE HERE by your team nexus server -->
-    <url>http://35.175.147.51:8081/repository/maven-snapshots/</url>
+    <url>http://44.211.155.241:8081/repository/maven-snapshots/</url>
     
    </snapshotRepository>
   
